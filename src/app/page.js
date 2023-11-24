@@ -32,22 +32,51 @@ export default function Home() {
       <div id='boxes' className='flex flex-col md:flex-row items-center justify-center font-sans text-center md:relative md:bottom-12'>
 
 
-      <div class="max-w-sm p-6 bg-[#0E3047] flex flex-col items-center justify-center space-y-10 bg-cover w-[400px] h-96" style={{ backgroundImage: 'url("https://i.ibb.co/x8tqNzS/unnamed.jpg")' }}>
+      <div class="max-w-sm p-6 bg-[#0E3047] flex flex-col items-center justify-center space-y-10">
     
- 
+    <FaPhone size={20} className='text-gray-300 md:self-start'/>
+    <a href="#">
+        <h5 class={`mb-2 text-2xl font-semibold tracking-tight text-white ${oswald.className}`}>Book your sports car today!</h5>
+    </a>
+    <p class={`mb-3 font-normal text-white ${oswald.className}`}>
+						24/7 Booking Available, You are just one step away from GTR Hire.					</p>
+    <a href="#" class={`inline-flex items-center text-white ${oswald.className}`}>
+    Rent Your Sports Car Today
+        <svg class="w-3 h-3 ml-2.5 hidden" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 18 18">
+            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11v4.833A1.166 1.166 0 0 1 13.833 17H2.167A1.167 1.167 0 0 1 1 15.833V4.167A1.166 1.166 0 0 1 2.167 3h4.618m4.447-2H17v5.768M9.111 8.889l7.778-7.778"/>
+        </svg>
+    </a>
 </div>
 
 
-<div class="max-w-sm p-6 bg-[#0E3047] flex flex-col items-center justify-center space-y-10 bg-cover  w-[400px] h-96" style={{ backgroundImage: 'url("https://i.ibb.co/Dtc1JNR/image.jpg")' }}>
+<div class="max-w-sm p-6 bg-[#0E3047] flex flex-col items-center justify-center space-y-10">
     
-
+    <FaBriefcase size={20} className='text-gray-300 md:self-start'/>
+    <a href="#">
+        <h5 class={`mb-2 text-2xl font-semibold tracking-tight text-white ${oswald.className}`}>Working Hours</h5>
+    </a>
+    <p class={`mb-3 font-normal text-white ${oswald.className}`}>
+						
+    We are avaliable 7 days a week, ready to assist you whenever you need us.		</p>
+    <a href="#" class={`inline-flex items-center text-white ${oswald.className}`}>
+   Available 24/7
+    </a>
 </div>
 
 
 
-<div class="max-w-sm p-6 bg-[#0E3047] flex flex-col items-center justify-center space-y-10  bg-cover  w-[400px] h-96" style={{ backgroundImage: 'url("https://i.ibb.co/S7YsfKF/image.jpg")' }}>
+<div class="max-w-sm p-6 bg-[#0E3047] flex flex-col items-center justify-center space-y-10">
     
+    <BsPersonFill size={20} className='text-gray-300 md:self-start'/>
+    <a href="#">
+        <h5 class={`mb-2 text-2xl font-semibold tracking-tight text-white ${oswald.className}`}>Call Us</h5>
+    </a>
+    <p class={`mb-3 font-normal text-white ${oswald.className}`}>
+    Feel free to reach out to us right away by dialing our phone number: 07412 765891		</p>
+    <a href='tel:07412765891' class={`inline-flex items-center text-white ${oswald.className}`}>
+    <BsTelephoneFill className='mr-2'/>Call Now
 
+    </a>
 </div>
 
 
