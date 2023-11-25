@@ -5,7 +5,7 @@ import { IoMdPerson } from 'react-icons/io';
 export default function Banner() {
   return (
 
-    <div className="relative flex flex-wrap content-start bg-cover bg-fixed bg-center h-auto text-white py-24 px-10 object-fill gap-8" style={{ backgroundImage: "url(https://mail.google.com/mail/u/0?ui=2&ik=bdf75be34b&attid=0.8&permmsgid=msg-f:1783538219644025716&th=18c0668fa936fb74&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ90PJcaVaKQ0paUW36z8D01i0ZJLVLnmEzBQyTWIlB3Icd-2VWlzW-T-NXy9mbYLTskkSDX_HaUO8FeaISvt5Jg-Oy7xtUzP_841fdE8_B3GooOhTNfCV2nUO8&disp=emb" }}>
+    <div className="relative flex flex-wrap content-start bg-cover bg-fixed bg-center h-auto text-white py-24 px-10 object-fill gap-8" style={{ backgroundImage: "url(https://i.ibb.co/kHTBSHG/unnamed.jpg" }}>
     <div className="absolute inset-0 bg-[#1a1a1a] opacity-60"></div>
     <h2 className='md:ml-24 text-2xl md:text-4xl font-bold z-10'>Why Choose Us</h2>
     <p className='md:ml-24 text-sm md:text-lg z-10'>GTR Hire offers a unique and unforgettable experience for those who love fast cars and luxury living. Our fleet of high-end sports cars is unmatched in quality and style, ranging from the sleek and stylish Lamborghini Huracan to the powerful, aggressive Ferrari 488 GTB and more other models with different brands.</p>
