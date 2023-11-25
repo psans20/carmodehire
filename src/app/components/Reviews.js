@@ -14,7 +14,7 @@ const questrial = Questrial({
 export default function Reviews(){
 
     return(
-        <div className="flex flex-col items-center text-center justify-center p-4" id="reviews">
+        <div className="flex flex-col items-center text-center justify-center p-4 mt-16" id="reviews">
             <h2 className={`font-bold text-black text-3xl md:text-4xl mb-4 ${oswald.className}`}>Our Customer Say</h2>
             <p className={`md:w-[700px] ${questrial.className}`}>Each car has its own unique characteristics. Due to special occasions, many people desire a blast on their special day. There are others who plan a special weekend.</p>
         

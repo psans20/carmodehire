@@ -18,7 +18,7 @@ export default function Navbar() {
   };
 
   return (
-    <nav className="flex space-x-4 p-8 justify-between md:justify-around md:bg-transparent shadow-md md:shadow-none" id='nav'>
+    <nav className="flex space-x-4 p-8 justify-between md:justify-around md:bg-transparent  md:shadow-none" id='nav'>
       <div id="logo" className={neonFont.className}>
         <h1 className='relative text-3xl md:text-5xl font-black text-gray-900 text-center h-[25px] md:h-auto md:text-left tracking-tight f-f-i leading-tight text-heading-color uppercase'>gtr hire</h1>
       {/*  <img src="https://dubaisportcar.ae/wp-content/uploads/2023/03/DSC-Logo.png" className="" alt="Logo" />*/}
@@ -29,7 +29,7 @@ export default function Navbar() {
         <a href="#fleetSection"><h2 className="text-lg hover:cursor-pointer">Cars</h2></a>
         <a href="#Contact"><h2 className="text-lg hover:cursor-pointer">Contact Us</h2></a>
        <a href="#reviews"> <h2 className="text-lg hover:cursor-pointer">Testimonials</h2></a>
-       <a href="#Contact"><button className="py-3 px-4 uppercase bg-blue-800 text-white font-semibold relative bottom-3 text-md hover:bg-black hover:text-white transition-all duration-300">rent a sports car today!</button></a>
+       <a href="#Contact"><button className="py-3 px-4 uppercase bg-blue-800 text-white font-md relative bottom-3 text-md hover:bg-black hover:text-white transition-all duration-300">rent a sports car today!</button></a>
       </div>
 
       <div id="mobileNavbar" className="md:hidden text-gray-900 mt-1" onClick={toggleDropdown}>

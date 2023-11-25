@@ -4,6 +4,7 @@ import Hero from './components/Hero'
 import Fleet from './components/Fleet'
 import Reviews from './components/Reviews'
 import Booking from './components/Booking'
+import Banner from './components/Banner'
 import Footer from './components/Footer'
 import { FaPhone, FaBriefcase } from 'react-icons/fa'
 import { BsPersonFill, BsTelephoneFill } from 'react-icons/bs' 
@@ -84,6 +85,7 @@ export default function Home() {
       </div>
 
       <Fleet/>
+      <Banner/>
       <Reviews/>
       <Booking/>
       <Footer/>

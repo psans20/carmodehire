@@ -17,7 +17,7 @@ const questrial = Questrial({
 
 export default function Booking(){
     return(
-        <div className="flex flex-col items-center justify-center  space-y-4 p-8 font-sans text-center py-20" id="Contact">
+        <div className="flex flex-col items-center justify-center  space-y-4 p-8 font-sans text-center bg-white py-20" id="Contact">
 <h2 className={`font-semibold text-md ${questrial.className}`}>GTR Hire Booking Contact</h2>
 <h2 className={`font-bold text-5xl ${oswald.className}`}>03335 770272</h2>
 <h2 className={`font-semibold text-md ${questrial.className}`}>Call or Send Whatsapp inquiry</h2>

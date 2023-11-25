@@ -5,15 +5,15 @@ export default function Footer(){
     return(
        <div>
 <footer
-  className="bg-neutral-100 text-center text-neutral-600 dark:bg-neutral-600 dark:text-neutral-200 lg:text-left">
+  className="bg-[#253993] text-center text-white lg:text-left">
   <div
-    className="flex items-center justify-center border-b-2 border-neutral-200 p-6 dark:border-neutral-500 lg:justify-between">
+    className="flex items-center justify-center border-b-2 border-[#253993] p-6 lg:justify-between">
     <div className="mr-12 hidden lg:block">
       <span>Get connected with us on social networks:</span>
     </div>
 
     <div className="flex justify-center">
-      <a href="#" target="_blank" className="mr-6 text-neutral-600 dark:text-neutral-200">
+      <a href="https://www.facebook.com/gtrhireuk" target="_blank" className="mr-6 text-white">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           className="h-4 w-4"
@@ -24,7 +24,7 @@ export default function Footer(){
         </svg>
       </a>
      
-      <a href="#" target="_blank" className="mr-6 text-neutral-600 dark:text-neutral-200">
+      <a href="https://www.instagram.com/gtrhire/" target="_blank" className="mr-6 text-white">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           className="h-4 w-4"
@@ -54,7 +54,7 @@ export default function Footer(){
       <div className="">
         <h6
           className="mb-4 flex justify-center font-semibold uppercase md:justify-start">
-          Site as
+          Site Links
         </h6>
         <p className="mb-4">
          <a href="#nav"> Home</a>
@@ -121,12 +121,12 @@ export default function Footer(){
   </div>
 
 
-  <div className="bg-neutral-200 p-6 text-center dark:bg-neutral-700">
+  <div className="bg-[#253993] text-white p-6 font-light text-center">
     <span>© 2019 Copyright:</span>
     <a
-      className="font-semibold text-neutral-600 dark:text-neutral-400"
+      className="font-light text-white"
       href="http://gtrhire.co.uk/"
-      >gtrhire.co.uk</a>
+      > gtrhire.co.uk</a>
   </div>
 </footer>
 </div>

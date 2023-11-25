@@ -29,3 +29,9 @@ background-size: cover;
   background-attachment: fixed;
   background-size: cover;
 }
+
+@media only screen and (min-width: 2304px) {
+#carButton{
+  flex-direction: column;
+}
+}
