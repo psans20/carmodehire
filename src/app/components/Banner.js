@@ -33,7 +33,7 @@ export default function Banner() {
       <div className='flex flex-col gap-3 max-w-1/2'>
         <FaShieldAlt size={26} className='' />
         <h2 className='text-lg font-semibold'>Trusted Work</h2>
-        <p className='text-sm font-light md:text-md'>Our service at Dubai Sport Car Rental is dedicated to providing trusted and reliable work to our clients. We understand that renting a sports car is not just about the car itself, but also about the trust and confidence that comes with a reliable rental service.</p>
+        <p className='text-sm font-light md:text-md'>Our service at GTR Hire is dedicated to providing trusted and reliable work to our clients. We understand that renting a sports car is not just about the car itself, but also about the trust and confidence that comes with a reliable rental service.</p>
       </div>
 
     </div>
