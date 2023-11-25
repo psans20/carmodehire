@@ -5,7 +5,7 @@ import { IoMdPerson } from 'react-icons/io';
 export default function Banner() {
   return (
 
-    <div className="relative flex flex-wrap content-start bg-cover bg-fixed bg-center h-auto text-white py-24 px-10 object-fill gap-8" style={{ backgroundImage: "url(https://i.ibb.co/kHTBSHG/unnamed.jpg" }}>
+    <div className="relative flex flex-wrap content-start bg-cover md:bg-fixed bg-center h-auto text-white py-24 px-10 object-fill gap-8" style={{ backgroundImage: "url(https://i.ibb.co/kHTBSHG/unnamed.jpg" }} id='background'>
     <div className="absolute inset-0 bg-[#1a1a1a] opacity-60"></div>
     <h2 className='md:ml-24 text-2xl md:text-4xl font-bold z-10'>Why Choose Us</h2>
     <p className='md:ml-24 text-sm md:text-lg z-10'>GTR Hire offers a unique and unforgettable experience for those who love fast cars and luxury living. Our fleet of high-end sports cars is unmatched in quality and style, ranging from the sleek and stylish Lamborghini Huracan to the powerful, aggressive Ferrari 488 GTB and more other models with different brands.</p>
