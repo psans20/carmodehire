@@ -8,9 +8,9 @@ export default function Banner() {
     <div className="relative flex flex-wrap content-start bg-cover md:bg-fixed bg-center h-auto text-white py-24 px-10 object-fill gap-8" style={{ backgroundImage: "url(https://i.ibb.co/kHTBSHG/unnamed.jpg" }} id='background'>
     <div className="absolute inset-0 bg-[#1a1a1a] opacity-60"></div>
     <h2 className='md:ml-24 text-2xl md:text-4xl font-bold z-10'>Why Choose Us</h2>
-    <p className='md:ml-24 text-sm md:text-lg z-10'>GTR Hire offers a unique and unforgettable experience for those who love fast cars and luxury living. Our fleet of high-end sports cars is unmatched in quality and style, ranging from the sleek and stylish Lamborghini Huracan to the powerful, aggressive Ferrari 488 GTB and more other models with different brands.</p>
+    <p className='md:ml-24 text-sm md:text-lg z-10'>GTR Hire offers a unique and unforgettable experience for those who love fast cars. Our fleet of high-end sports cars is unmatched in quality and style, ranging from the sleek and stylish S3 to the powerful, aggressive A45 and more other models with different brands.</p>
 
-    <div className='flex flex-col md:grid md:grid-cols-2 gap-6 md:gap-2 md:space-y-4 md:justify-center md:items-center z-10'>
+    <div className='flex flex-col md:grid md:grid-cols-2 gap-6 md:gap-2 md:space-y-4 md:justify-center md:items-center z-10 md:py-4 md:px-28'>
 
       <div className='flex flex-col gap-3 max-w-1/2'>
         <FaBriefcase size={26} className='' />
@@ -21,7 +21,7 @@ export default function Banner() {
       <div className='flex flex-col gap-3 max-w-1/2'>
         <IoMdPerson size={26} className='' />
         <h2 className='text-lg font-semibold'>Customer Satisfaction</h2>
-        <p className='text-sm font-light md:text-md'>At GTR Hire, customer satisfaction is our top priority. We understand that renting a sports car is a unique and exciting experience, and we strive to ensure that every client leaves satisfied with their rental experience.</p>
+        <p className='text-sm font-light md:text-md'>At GTR Hire, customer satisfaction is our top priority. We understand that renting a sports car is a unique and exciting experience, and we strive to ensure that every client leaves satisfied with their hire experience.</p>
       </div>
 
       <div className='flex flex-col gap-3 max-w-1/2'>
