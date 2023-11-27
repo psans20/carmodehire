@@ -19,7 +19,7 @@
 #hero {
   background-color: #FFFFFF;
 background-image: url(../../public/gray-bg.svg);
-background-attachment: fixed;
+
 background-size: cover;
 }
 
@@ -30,8 +30,9 @@ background-size: cover;
   background-size: cover;
 }
 
-@media only screen and (min-width: 2304px) {
-#carButton{
-  flex-direction: column;
-}
+
+@media only screen and (min-width: 1041px) and (max-width: 1320px) {
+  #carButton{
+    flex-direction: column;
+  }
 }
