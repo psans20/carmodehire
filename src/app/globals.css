@@ -19,7 +19,7 @@
 #hero {
   background-color: #FFFFFF;
 background-image: url(../../public/gray-bg.svg);
-
+background-attachment: fixed;
 background-size: cover;
 }
 

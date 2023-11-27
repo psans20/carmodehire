@@ -73,7 +73,7 @@ export default function Home() {
         <h5 class={`mb-2 text-2xl font-semibold tracking-tight text-white ${oswald.className}`}>Call Us</h5>
     </a>
     <p class={`mb-3 font-normal text-white ${oswald.className}`}>
-    Feel free to reach out to us right away by dialing our phone number: 07412 765891		</p>
+    Feel free to reach out to us right away by dialing our phone number: 07412 765891	</p>
     <a href='tel:07412765891' class={`inline-flex items-center text-white ${oswald.className}`}>
     <BsTelephoneFill className='mr-2'/>Call Now
 
