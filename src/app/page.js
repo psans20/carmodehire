@@ -25,7 +25,7 @@ const questrial = Questrial({
 export default function Home() {
   return (
     <main className="">
-     {/* <div className='' id='hero'>
+  <div className='' id='hero'>
       <Navbar/>
       <Hero/>
       </div>
@@ -88,7 +88,7 @@ export default function Home() {
       <Banner/>
       <Reviews/>
       <Booking/>
-  <Footer/> */}
+  <Footer/> 
     </main>
   )
 }
