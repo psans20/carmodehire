@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+#hero {
+  background-color: #FFFFFF;
+background-image: url(../../public/gray-bg.svg);
+background-attachment: fixed;
+background-size: cover;
+}
+
+#Contact {
+  background-color: #FFFFFF;
+  background-image: url(../../public/gray-bg.svg);
+
+  background-size: cover;
+}
+
+
+@media only screen and (min-width: 1041px) and (max-width: 1320px) {
+  #carButton{
+    flex-direction: column;
+  }
+}
+
+#callNow {
+  box-shadow: 4px 4px;
+}
+
+#callNow:hover {
+  top: 2px;
+  left: 50px;
+}

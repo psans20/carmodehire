@@ -1,0 +1,152 @@
+[
+    {
+        "ID": 1,
+        "Name": "Golf-R",
+        "Thumbnail": "https://i.postimg.cc/rFmFdwxq/0.jpg",
+        "TopSpeed": "161MPH",
+        "ZeroSixty": "4.4s",
+        "Price": "300",
+        "Weekend": "700",
+        "BHP": "310",
+        "Mileage": "40,000"
+    },
+
+    {
+        "ID": 2,
+        "Name": "Mercedes A45",
+        "Thumbnail": "https://i.ibb.co/XF3jyz0/image0.jpg",
+        "TopSpeed": "155MPH",
+        "ZeroSixty": "3.8s",
+        "Price": "350",
+        "Weekend": "750",
+        "BHP": "375",
+        "Mileage": "85,000"
+    },
+
+    {
+        "ID": 3,
+        "Name": "Audi RS3",
+        "Thumbnail": "https://i.ibb.co/RT7X95s/image0.jpg",
+        "TopSpeed": "156MPH",
+        "ZeroSixty": "4s",
+        "Price": "350",
+        "Weekend": "750",
+        "BHP": "390",
+        "Mileage": "51,000"
+
+    },
+
+    
+    {
+        "ID": 4,
+        "Name": "Golf-R Black",
+        "Thumbnail": "https://i.postimg.cc/HWMgkKr6/0.jpg",
+        "TopSpeed": "161MPH",
+        "ZeroSixty": "4.4s",
+        "Price": "300",
+        "Weekend": "700",
+        "BHP": "310",
+        "Mileage": "40,000"
+    },
+  
+    {
+        "ID": 6,
+        "Name": "Mercedes A35 AMG",
+        "Thumbnail": "https://i.ibb.co/k5NMpTc/IMG-9474.jpg",
+        "TopSpeed": "155MPH",
+        "ZeroSixty": "4.6s",
+        "Price": "350",
+        "Weekend": "750",
+        "BHP": "415",
+        "Mileage": "45,000"
+    },
+    {
+        "ID": 7,
+        "Name": "Cupra Formentor",
+        "Thumbnail": "https://i.ibb.co/879Pjd0/IMG-9473.jpg",
+        "TopSpeed": "155MPH",
+        "ZeroSixty": "4.7s",
+        "Price": "350",
+        "Weekend": "700",
+        "BHP": "310",
+        "Mileage": "15,000"
+    },
+    {
+        "ID": 8,
+        "Name": "BMW M135i",
+        "Thumbnail": "https://i.ibb.co/KzhzyYV/IMG-9475.jpg",
+        "TopSpeed": "155MPH",
+        "ZeroSixty": "4.6s",
+        "Price": "350",
+        "Weekend": "750",
+        "BHP": "306",
+        "Mileage": "45,000"
+    },
+    {
+        "ID": 9,
+        "Name": "Golf-R Red",
+        "Thumbnail": "https://i.ibb.co/hWfS3jC/image0.jpg",
+        "TopSpeed": "161MPH",
+        "ZeroSixty": "4.4s",
+        "Price": "300",
+        "Weekend": "700",
+        "BHP": "310",
+        "Mileage": "40,000"
+    },
+    {
+        "ID": 10,
+        "Name": "Seat Leon Cupra",
+        "Thumbnail": "https://i.ibb.co/sP7dCgz/image.jpg",
+        "TopSpeed": "155MPH",
+        "ZeroSixty": "4.7s",
+        "Price": "300",
+        "Weekend": "700",
+        "BHP": "290",
+        "Mileage": "55,000"
+    },
+    {
+        "ID": 11,
+        "Name": "Range Rover Sports SVR",
+        "Thumbnail": "https://i.ibb.co/NVgNZRz/image.jpg",
+        "TopSpeed": "160MPH",
+        "ZeroSixty": "4.1s",
+        "Price": "600",
+        "Weekend": "1500",
+        "BHP": "330",
+        "Mileage": "20,000"
+    },
+    {
+        "ID": 12,
+        "Name": "Golf-R Blue",
+        "Thumbnail": "https://i.ibb.co/5TdQg7b/unnamed.jpg",
+        "TopSpeed": "161MPH",
+        "ZeroSixty": "4.4s",
+        "Price": "300",
+        "Weekend": "700",
+        "BHP": "310",
+        "Mileage": "40,000"
+    },
+    {
+        "ID": 13,
+        "Name": "Mercedes A45 S",
+        "Thumbnail": "https://i.ibb.co/D7VT8jr/unnamed.jpg",
+        "TopSpeed": "155MPH",
+        "ZeroSixty": "4.6s",
+        "Price": "350",
+        "Weekend": "750",
+        "BHP": "415",
+        "Mileage": "45,000"
+    }
+    ,
+    {
+        "ID": 14,
+        "Name": "Audi RS3 Black",
+        "Thumbnail": "https://i.ibb.co/v34jNsb/unnamed.jpg",
+        "TopSpeed": "156MPH",
+        "ZeroSixty": "4s",
+        "Price": "350",
+        "Weekend": "750",
+        "BHP": "390",
+        "Mileage": "51,000"
+    }
+]
