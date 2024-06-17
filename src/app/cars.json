@@ -11,17 +11,6 @@
         "Mileage": "40,000"
     },
 
-    {
-        "ID": 2,
-        "Name": "Mercedes A45",
-        "Thumbnail": "https://i.ibb.co/XF3jyz0/image0.jpg",
-        "TopSpeed": "155MPH",
-        "ZeroSixty": "3.8s",
-        "Price": "350",
-        "Weekend": "750",
-        "BHP": "375",
-        "Mileage": "85,000"
-    },
 
     {
         "ID": 3,
@@ -49,28 +38,8 @@
         "Mileage": "40,000"
     },
   
-    {
-        "ID": 6,
-        "Name": "Mercedes A35 AMG",
-        "Thumbnail": "https://i.ibb.co/k5NMpTc/IMG-9474.jpg",
-        "TopSpeed": "155MPH",
-        "ZeroSixty": "4.6s",
-        "Price": "350",
-        "Weekend": "750",
-        "BHP": "415",
-        "Mileage": "45,000"
-    },
-    {
-        "ID": 7,
-        "Name": "Cupra Formentor",
-        "Thumbnail": "https://i.ibb.co/879Pjd0/IMG-9473.jpg",
-        "TopSpeed": "155MPH",
-        "ZeroSixty": "4.7s",
-        "Price": "350",
-        "Weekend": "700",
-        "BHP": "310",
-        "Mileage": "15,000"
-    },
+  
+
     {
         "ID": 8,
         "Name": "BMW M135i",
@@ -82,28 +51,7 @@
         "BHP": "306",
         "Mileage": "45,000"
     },
-    {
-        "ID": 9,
-        "Name": "Golf-R Red",
-        "Thumbnail": "https://i.ibb.co/hWfS3jC/image0.jpg",
-        "TopSpeed": "161MPH",
-        "ZeroSixty": "4.4s",
-        "Price": "300",
-        "Weekend": "700",
-        "BHP": "310",
-        "Mileage": "40,000"
-    },
-    {
-        "ID": 10,
-        "Name": "Seat Leon Cupra",
-        "Thumbnail": "https://i.ibb.co/sP7dCgz/image.jpg",
-        "TopSpeed": "155MPH",
-        "ZeroSixty": "4.7s",
-        "Price": "300",
-        "Weekend": "700",
-        "BHP": "290",
-        "Mileage": "55,000"
-    },
+
     {
         "ID": 11,
         "Name": "Range Rover Sports SVR",
@@ -148,5 +96,28 @@
         "Weekend": "750",
         "BHP": "390",
         "Mileage": "51,000"
+    },
+    {
+        "ID": 15,
+        "Name": "Audi RS3 Saloon Facelift",
+        "Thumbnail": "https://i.ibb.co/xS5WQp6/Whats-App-Image-2024-06-17-at-12-43-05-e36a1af4.jpg",
+        "TopSpeed": "156MPH",
+        "ZeroSixty": "4s",
+        "Price": "350",
+        "Weekend": "750",
+        "BHP": "390",
+        "Mileage": "51,000"
+    },
+    {
+        "ID": 16,
+        "Name": "MK-8 Golf-R",
+        "Thumbnail": "https://i.ibb.co/GdGqQ7s/Whats-App-Image-2024-06-17-at-12-43-35-b15b1819.jpg",
+        "TopSpeed": "156MPH",
+        "ZeroSixty": "4s",
+        "Price": "300",
+        "Weekend": "700",
+        "BHP": "390",
+        "Mileage": "51,000"
     }
+
 ]
