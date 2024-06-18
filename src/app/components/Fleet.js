@@ -40,7 +40,7 @@ Elevate your driving experience with GTR Hire – where luxury meets performance
             </div>
 
             <div className={`flex flex-col items-center justify-center gap-2 text-center md:space-y-0 lg:flex-row ${questrial.className}`} id="carButton">
-              <a href='tel:03335770272'><button className="flex rounded-full border-2 border-blue-800 py-3 px-32 md:px-20 hover:bg-blue-800 hover:text-white duration-300"><FaPhoneSquareAlt className="mr-2 mt-1" />Call</button></a>
+              <a href='tel:03300985257'><button className="flex rounded-full border-2 border-blue-800 py-3 px-32 md:px-20 hover:bg-blue-800 hover:text-white duration-300"><FaPhoneSquareAlt className="mr-2 mt-1" />Call</button></a>
               <a href="https://wa.me/+447412765891" target="_blank" rel="noopener noreferrer"><button className="flex rounded-full border-2 border-blue-800 py-3 px-[105px] md:px-14 hover:bg-blue-800 hover:text-white duration-300"><FaWhatsapp className="mr-2 mt-1" />WhatsApp</button></a>
             </div>
           </div>
