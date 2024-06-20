@@ -53,17 +53,6 @@
     },
 
     {
-        "ID": 11,
-        "Name": "Range Rover Sports SVR",
-        "Thumbnail": "https://i.ibb.co/NVgNZRz/image.jpg",
-        "TopSpeed": "160MPH",
-        "ZeroSixty": "4.1s",
-        "Price": "600",
-        "Weekend": "1500",
-        "BHP": "330",
-        "Mileage": "20,000"
-    },
-    {
         "ID": 12,
         "Name": "Golf-R Blue",
         "Thumbnail": "https://i.ibb.co/5TdQg7b/unnamed.jpg",
